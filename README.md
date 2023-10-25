@@ -13,7 +13,7 @@ Front-End Developer
 
 
 ### My skills
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuelluca20&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
