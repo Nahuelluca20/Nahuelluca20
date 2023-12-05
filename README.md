@@ -4,7 +4,7 @@ Hi there 👋 my name is Nahuel Luca
 Front-End Developer 
 ---------------------
 
-* 🌍  I live in Mendoza, Argentina
+* 🌍  I live in Argentina
 * 🤓  Visit my portfolio [Portfolio](https://nahuel-develop.vercel.app/)
 * ✉️  Contact me by [nahueldevelop@gmail.com](mailto:nahueldevelop@gmail.com)
 * 💼  I'm currently working on [Incubator](http://incubator.com.ar/)
