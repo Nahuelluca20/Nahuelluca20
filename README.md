@@ -7,7 +7,6 @@ Front-End Developer
 * 🌍  I live in Argentina
 * 🤓  Visit my portfolio [Portfolio](https://loadertsx.com/)
 * ✉️  Contact me by [nahueldevelop@gmail.com](mailto:nahueldevelop@gmail.com)
-* 💼  I'm currently working on [Litebox](https://litebox.ai/)
 * ☕ I like coffee
 
 
